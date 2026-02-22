@@ -9,7 +9,7 @@ Name="github_instance"
 
 ami=var.ami_id
 instance_type=var.itype
-key_name="MY_KP"
+key_name="My_KP"
 root_block_device{
 volume_size=var.volume
 }
