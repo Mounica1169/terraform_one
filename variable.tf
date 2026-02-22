@@ -10,10 +10,10 @@ variable "itype" {
 }
 variable "volume" {
   description = "it has volume"
-  type = Number
+  type = number
   default = 10
 }
 variable "icount" {
-  type = Number
+  type = number
   default = 1
 }
